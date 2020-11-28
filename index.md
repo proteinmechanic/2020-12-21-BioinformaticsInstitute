@@ -114,10 +114,13 @@ address.
 <p id="where">
   <strong>Where:</strong>
   {{page.address}}.
+  Register <a href="">here</a>.
+  {% comment %}
   Get directions with
   <a href="//www.openstreetmap.org/?mlat={{page.latitude}}&mlon={{page.longitude}}&zoom=16">OpenStreetMap</a>
   or
   <a href="//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}">Google Maps</a>.
+  {% endcomment %}
 </p>
 {% elsif online == "true_public" %}
 <p id="where">
