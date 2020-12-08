@@ -114,8 +114,8 @@ address.
 <p id="where">
   <strong>Where:</strong>
   This training will take place online, using {{page.address}}. 
-  Register <a href="https://forms.gle/YsYSbfWkTUSZkC3U9">here</a>.
-  Meeting details and other instructions will be emailed. Last date to register is 18th December, 2020. 
+  {% Register <a href="https://forms.gle/YsYSbfWkTUSZkC3U9">here</a> %} Registration is now closed.
+  Meeting details and other instructions will be emailed prior to the workshop. {% Last date to register is 18th December, 2020. %}
   {% comment %}
   Get directions with
   <a href="//www.openstreetmap.org/?mlat={{page.latitude}}&mlon={{page.longitude}}&zoom=16">OpenStreetMap</a>
