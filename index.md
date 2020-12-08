@@ -118,7 +118,10 @@ address.
   Register <a href="https://forms.gle/YsYSbfWkTUSZkC3U9">here</a>
   {% endcomment %}
   Registration is now closed.
-  Meeting details and other instructions will be emailed prior to the workshop. {% Last date to register is 18th December, 2020. %}
+  Meeting details and other instructions will be emailed prior to the workshop. 
+  {% comment %}
+  Last date to register is 18th December, 2020.
+  {% endcomment %}
   {% comment %}
   Get directions with
   <a href="//www.openstreetmap.org/?mlat={{page.latitude}}&mlon={{page.longitude}}&zoom=16">OpenStreetMap</a>
